@@ -2,8 +2,13 @@
     background-color: red;
 }
 
-
-
+table, th, td {
+  border: 1px solid deeppink;
+  border-collapse: collapse;
+}
+th, td {
+    background-color: purple;
+  }
 
 
   
